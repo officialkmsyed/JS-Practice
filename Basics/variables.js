@@ -19,6 +19,8 @@ console.table([accountEmail, accountCity, accountPassword]);
 - Not Used Var because issues in block scope and functional scope | { } ex: for {}, if {}
 (var not detrmine the variables easily)
 
+-when we only declare variable and not define any value for variable then JavaScript default output is undefine
+
 ---------------Other Syntax ------------------
 Console.log() - to declare output
 
@@ -29,4 +31,8 @@ let - for variables
 ----------------- Not Used -------------------
 var like var accountName
 and without var syntax like direct accountName etc
+
+-----------------TIPS-----------------------
+
+Be always investigate
 */
