@@ -6,4 +6,13 @@ Course Subject: JavaScript
 
 - Use awlways investigation mindset for more learning.  
 
+- Use proper indentaion, readability should be high, experienced!
+
+
+---------------- Useful Resources --------------------------------
+
+TC39 ECMA : JavaScript official Standard website : https://tc39.es/ecma262/ (ECMA Script)
+
+MDN Site: MDN is another site for JavaScript dcoumentation : https://developer.mozilla.org/en-US/docs/Web/JavaScript
+ 
 
