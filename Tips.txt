@@ -8,6 +8,8 @@ Course Subject: JavaScript
 
 - Use proper indentaion, readability should be high, experienced!
 
+- Use always clean code, so all developers, interact and give personal touch with your developed code
+
 
 ---------------- Useful Resources --------------------------------
 
