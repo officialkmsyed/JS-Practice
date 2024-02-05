@@ -1,0 +1,27 @@
+Data Types Summary with all notes:
+
+Two types in JS Premitive and Non-Premitive: this accoridng to store data into memory
+
+
+Premitive: 7 Types (definition likho)
+1. String 
+2. Number
+3. Boolean
+4. Null 
+5. Undefined
+6. Symbol
+7. BigInt
+
+Non-Primitive: 
+1. Array 
+2. Objects 
+3. Functions  
+
+Hitesh Sir hamesha bolte hai ke JavaScript ke Objects and Browser ke events ko master karlo.
+
+
+Type of operator k eresults kya ayege woh document  yahaper: https://262.ecma-international.org/5.1/#sec-11.4.3
+ 
+
+
+
