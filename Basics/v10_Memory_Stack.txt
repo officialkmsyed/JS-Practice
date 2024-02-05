@@ -1,0 +1,4 @@
+Mmeory Usage
+
+Stack Mmeory: All Primitive  (Copy of Original value)
+Heap Mmeory: All Non-Primitive (Reference to Original Value)
