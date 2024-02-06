@@ -57,5 +57,5 @@ let gameName = new String("Hello Syed G and World!"); //is mehtod se ouput strin
 console.log(gameName); //[String: 'Hello Syed G and World!']
 console.log(gameName.charAt(0)); //H
 
-let gamePower = gameName.substring(2, 3 | undefined);
-console.log(gamePower); //l
+let gamePower = gameName.substring(0, 4);
+console.log(gamePower); //Hell 0-H 1-e 2-l 3-l 4-o but 4th letter is not consider because in substring the last number letter is not included
