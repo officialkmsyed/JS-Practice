@@ -36,6 +36,6 @@ console.log(url.includes('sundar'))
 console.log(gameName.split('-'));
 
 /* ---------------------------- Notes ------------------------------------- 
-
+ Differe string type learn from w3school
 
 */
