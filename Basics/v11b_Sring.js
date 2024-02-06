@@ -49,13 +49,13 @@ console.log(charCodeAt); //Output is => 72
 let text4 = "HELLO WORLD";
 let split = text4.split();
 console.log(text4); //Output is => HELLO WORLD
-console.log(split); //Output is => 72
+console.log(split); //Output is => [ 'HELLO WORLD' ]
 
 //One More method to declare string
 
 let gameName = new String("Hello Syed G and World!"); //is mehtod se ouput string ke from a raha hai //MERA OBSERVATION
-console.log(gameName);
-console.log(gameName.charAt(0));
+console.log(gameName); //[String: 'Hello Syed G and World!']
+console.log(gameName.charAt(0)); //H
 
 let gamePower = gameName.substring(2, 3 | undefined);
-console.log(gamePower);
+console.log(gamePower); //l
