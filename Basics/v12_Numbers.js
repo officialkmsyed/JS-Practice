@@ -28,3 +28,9 @@ console.log(oneNumber.toPrecision(2)); //out => 30  jo precise value hai woh nik
 console.log(oneNumber.toPrecision(3)); //out => 29.8
 console.log(oneNumber.toPrecision(5)); //out => 29.844
 console.log(oneNumber.toPrecision(4)); //out => 29.84
+
+//To convert long number value to readable like 100000 into 1,00,000
+
+const hundreds =1000000
+console.log(hundreds.toLocaleString());  // out => 1,000,000  ---- By default US Standard ke hisab se value ati hai
+console.log(hundreds.toLocaleString('en-IN'));  // out => 10,00,000 -------- en-IN karne se indian standards ke hisab se value ati hai
