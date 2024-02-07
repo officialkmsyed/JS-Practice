@@ -10,6 +10,8 @@ Course Subject: JavaScript
 
 - Use always clean code, so all developers, interact and give personal touch with your developed code
 
+- String is the most powerful conceopt in any lanaguage by Hitesh Choudhary
+
 
 ---------------- Useful Resources --------------------------------
 

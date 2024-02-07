@@ -57,16 +57,16 @@ let gameName = new String("Hello Syed G and World!"); //is mehtod se ouput strin
 console.log(gameName); //[String: 'Hello Syed G and World!']
 console.log(gameName.charAt(0)); //H
 
-
 //Type String Substring()
 
 let gamePower = gameName.substring(0, 4); //Out => Hell
 let gamePower2 = gameName.substring(-5, 4); //Out => Hell becasue substring does not consider negative- no, it start    negative number with zero, to use negativ evalue o used string.slice()
-console.log(gamePower); //Out => Hell | 0-H 1-e 2-l 3-l 4-o but 4th letter is not consider because in substring the last number letter is not included 
-
+console.log(gamePower); //Out => Hell | 0-H 1-e 2-l 3-l 4-o but 4th letter is not consider because in substring the last number letter is not included
 
 //Type Slice() (we use negative number in slice)
-const colorName = new String('Blue');
+const colorName = new String("Blue");
 const colorNameSlice = colorName.slice(-5, 3); //out => Blu
 console.log(colorName); //out => [String: 'Blue']
-console.log(colorNameSlice);   //out => Blu
+console.log(colorNameSlice); //out => Blu
+
+//Type Include() (To check )
