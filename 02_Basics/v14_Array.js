@@ -33,3 +33,9 @@ const newArr = myArr.join(); //by this the array is converted into string
 
 console.log(myArr);
 console.log(newArr);
+
+//-----------
+
+//slice returns a piece of the array but it doesn't affect the original array. 
+
+//splice changes the original array by removing, replacing, or adding values and returns the affected values.
