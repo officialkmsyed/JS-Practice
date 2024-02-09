@@ -4,3 +4,4 @@ Interview Practice Questions
 v14 : Splice and Slice Different
 
 v16: Singleton
+v16: How add Symbol as object
