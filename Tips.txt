@@ -12,6 +12,9 @@ Course Subject: JavaScript
 
 - String is the most powerful conceopt in any lanaguage by Hitesh Choudhary
 
+- Objects and Events are mst important in JavaScript
+
+
 
 ---------------- Useful Resources --------------------------------
 
