@@ -14,6 +14,8 @@ Course Subject: JavaScript
 
 - Objects and Events are mst important in JavaScript
 
+- Most of the time used Spread in Arrya and Object
+
 
 
 ---------------- Useful Resources --------------------------------
