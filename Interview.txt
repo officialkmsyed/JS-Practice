@@ -7,3 +7,5 @@ v16: Singleton
 v16: How add Symbol as object
 
 v17: Singleton vs Non-Singleton object
+
+v20: One example is given of val1,val2, ...num2.
