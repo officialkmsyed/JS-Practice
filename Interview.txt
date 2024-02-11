@@ -11,3 +11,6 @@ v17: Singleton vs Non-Singleton object
 v20: One example is given of val1,val2, ...num2.
 
 v21: Global and Local Scope in Windows and BrowserConsole and VSCode is Different
+
+v22: Closure in JavaScript
+v22: Hoisting Question (different type of function declaration)
