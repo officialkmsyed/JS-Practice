@@ -14,3 +14,5 @@ v21: Global and Local Scope in Windows and BrowserConsole and VSCode is Differen
 
 v22: Closure in JavaScript
 v22: Hoisting Question (different type of function declaration)
+
+v23: In Borwser the Global Object is Window Object
