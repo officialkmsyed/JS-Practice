@@ -1,0 +1,26 @@
+//How does javascript execute code + call stack 
+
+//Important Foundation of JS
+
+
+//01
+JavaScript Execution Context - by THIS
+
+Browser JS EC Enivronment: THIS value - Window
+
+Node JS EC Enivronment: THIS value - ?
+
+//02
+JS Execution Context:
+1. Global Execution Context
+2. Function Execution Context
+3. Eval Execution Context (In Advanced Enivronment)
+
+
+//03
+Phases in JavaScript:
+1. Memory Creation Phase (Only allocate Memory)
+2. Execution Phase (Execution)
+
+
+
