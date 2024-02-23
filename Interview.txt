@@ -21,3 +21,5 @@ v23: When we used THIS in ARROW function
 v24: IIFE right definiton 
 
 v25: VERY IMPORTANT FOUNDATION VIDEO for Interviews
+
+v35: Project 03 setInterval() in JavaScript for continiuos printing date.
